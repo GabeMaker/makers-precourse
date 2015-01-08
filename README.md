@@ -8,3 +8,4 @@
 
 **Thursday 8/1/15**
 - Finished UNIX Tutorial
+- [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/index.html)\(ex 2, 17-20)\)
