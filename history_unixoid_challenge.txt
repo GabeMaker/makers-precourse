@@ -1,0 +1,32 @@
+  Tasks 1 - 11
+
+  501  cd Desktop/
+  502  mkdir temp
+  503  cd temp
+  504  mkdir -p my/private/files
+  505  mkdir -p my/public/files
+  506  touch my/private/files/t-vars.env
+  507  cat > my/private/files/t-vars.env
+  508  env | grep T
+  509  env | grep ^T
+  510  env | grep ^T >> my/private/files/t-vars.env
+  511  cd
+  512  ls -a
+  513  echo "export TESTING_MAKERS=working" >> .bash_profile
+  514  echo "$Overall count: (env | grep ^T | wc -l)" > Desktop/temp/my/public/files/t-vars.count 
+  515  echo "Overall count: $(env | grep ^T | wc -l)" > Desktop/temp/my/public/files/t-vars.count 
+  516  ls -l Desktop/temp/my/private/files/t-vars.env 
+  517  chmod go-r Desktop/temp/my/private/files/t-vars.env 
+  518  ls -l Desktop/temp/my/private/files/t-vars.env 
+  519  ls -l Desktop/temp/my/private/
+  520  ls -l Desktop/temp/my/private
+  521  cd Desktop/temp/my/private/
+  522  ls
+  523  ls -l
+  524  chmod go-x files/
+  525  ls -l
+  526  cd ~/Desktop/temp/my/public/files
+  527  ls -l
+  528  chmod a+rw t-vars.count 
+  529  ls -l
+  530  history
