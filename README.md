@@ -20,6 +20,7 @@
 - Finished Command Line Walkthrough
 - Completed Command Line Exercises (allowing myself to look at notes when needed)
 - Completed [Unixoid Challenge](https://github.com/makersacademy/unixoid-challenge) in [45 lines](https://github.com/GabeMaker/makers-precourse/blob/master/history_unixoid_challenge.txt)
+- LRtHW ex24-25 (including trying out taking some [notes](https://github.com/GabeMaker/learn-ruby-the-hard-way/blob/master/ex20-29/notes.md))
 
 
 ## Useful links and further reading from study:
