@@ -22,6 +22,9 @@
 - Completed [Unixoid Challenge](https://github.com/makersacademy/unixoid-challenge) in [45 lines](https://github.com/GabeMaker/makers-precourse/blob/master/history_unixoid_challenge.txt)
 - LRtHW ex24-25 (including trying out taking some [notes](https://github.com/GabeMaker/learn-ruby-the-hard-way/blob/master/ex20-29/notes.md))
 
+**Sunday 11th**
+- LRthW ex26 - debugging error-filled scripts **very useful** for understanding what error messages are staying. Method: Run file then get error, fix error, get new error. Repeat until script runs. Will **do this again** with other code (possibly turning off syntax highlighting).
+
 
 ## Useful links and further reading from study:
 
@@ -38,3 +41,4 @@
 - Command Line Exercises: I used [this link](http://askubuntu.com/questions/151674/how-do-i-insert-a-line-at-the-top-of-a-text-file-using-the-command-line) while trying to add a shebang to the top of the hello.rb file without leaving command line. I couldn't get the 'sed' command working (I inserted the shebang but could not create a newline after it). In the end I created a newfile1 (with the shebang) and newfile2 (a copy of the ruby code) and used 'cat newfile1 newfile2 > hello.rb' to do this part
 
 - Challenge: The 'sort' command wasn't in the walkthrough but found it through Google while doing task 13
+
