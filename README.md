@@ -23,8 +23,13 @@
 - LRtHW ex24-25 (including trying out taking some [notes](https://github.com/GabeMaker/learn-ruby-the-hard-way/blob/master/ex20-29/notes.md))
 
 **Sunday 11th**
-- LRthW ex26 - debugging error-filled scripts **very useful** for understanding what error messages are staying. Method: Run file then get error, fix error, get new error. Repeat until script runs. Will **do this again** with other code (possibly turning off syntax highlighting).
+- LRtHW ex26 - debugging error-filled scripts. **VERY USEFUL** for understanding what error messages mean.
+- LRtHW ex27-28 (booleans)
 
+
+## Week 2:
+**Monday 12/1/15**
+- LRtHW ex 29-31
 
 ## Useful links and further reading from study:
 
@@ -34,11 +39,18 @@
 - These [regex examples](http://www.thegeekstuff.com/2011/01/regular-expressions-in-grep-command/) helped with task 5 of the challenge
 - [command substitution](https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html) usage and syntax helped with task 8
 
+**Sublime Text**
+- [deleting blank lines](http://stackoverflow.com/questions/12008986/sublime-text-2-how-to-delete-blank-empty-lines) (find and replace / regex)
+
+**Ruby**
+- [Practicing Ruby](https://practicingruby.com) which I found through an article mentioning [choose your own adventure books](https://practicingruby.com/articles/confident-ruby) while playing with LRtHW ex31
+
+
 ## Misc
 
 **Week 1**
 
 - Command Line Exercises: I used [this link](http://askubuntu.com/questions/151674/how-do-i-insert-a-line-at-the-top-of-a-text-file-using-the-command-line) while trying to add a shebang to the top of the hello.rb file without leaving command line. I couldn't get the 'sed' command working (I inserted the shebang but could not create a newline after it). In the end I created a newfile1 (with the shebang) and newfile2 (a copy of the ruby code) and used 'cat newfile1 newfile2 > hello.rb' to do this part
 
-- Challenge: The 'sort' command wasn't in the walkthrough but found it through Google while doing task 13
+- Challenge: The **'sort'** command wasn't in the walkthrough but found it through Google while doing task 13
 
