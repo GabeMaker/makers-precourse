@@ -31,6 +31,9 @@
 **Monday 12/1/15**
 - LRtHW ex 29-31
 
+**Tuesday 13th**
+- Completed [Git Exercises](https://github.com/GabeMaker/command-line-git-exercises)
+
 ## Useful links and further reading from study:
 
 **Command Line**
