@@ -34,6 +34,12 @@
 **Tuesday 13th**
 - Completed [Git Exercises](https://github.com/GabeMaker/command-line-git-exercises)
 
+**Wednesday 14th**
+- LRtHW ex 35-37
+
+**Thursday 15th**
+- Worked through Chapter 1 of The Well Grounded Rubyist - David A. Black
+
 ## Useful links and further reading from study:
 
 **Command Line**
