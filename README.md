@@ -38,7 +38,11 @@
 - LRtHW ex 35-37
 
 **Thursday 15th**
-- Worked through Chapter 1 of The Well Grounded Rubyist - David A. Black
+- Worked through Chapter 1 of The Well Grounded Rubyist (WGR) - David A. Black
+
+**Friday 16th**
+- Read Chapter 2 of WGR
+- Started studying sets in the "Ruby by Makers Academy" class on [Quizlet](http://quizlet.com/join/VctmNbYus)
 
 ## Useful links and further reading from study:
 
