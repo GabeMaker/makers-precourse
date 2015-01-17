@@ -44,6 +44,10 @@
 - Read Chapter 2 of WGR
 - Started studying sets in the "Ruby by Makers Academy" class on [Quizlet](http://quizlet.com/join/VctmNbYus)
 
+**Saturday 17th**
+- Started Chapter 3 of WGR
+- More Quizlet work (will be ongoing, refresher study from now on)
+
 ## Useful links and further reading from study:
 
 **Command Line**
