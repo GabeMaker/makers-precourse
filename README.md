@@ -48,6 +48,9 @@
 - Started Chapter 3 of WGR
 - More Quizlet work (will be ongoing, refresher study from now on)
 
+**Sun 18th**
+- Finished Chapter 3 of WGR
+
 ## Useful links and further reading from study:
 
 **Command Line**
