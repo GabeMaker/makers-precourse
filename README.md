@@ -48,8 +48,23 @@
 - Started Chapter 3 of WGR
 - More Quizlet work (will be ongoing, refresher study from now on)
 
-**Sun 18th**
+**Sunday 18th**
 - Finished Chapter 3 of WGR
+
+
+## Week 3:
+**Monday* 19/1/15*
+- Completed Octocat [(Version Control Challenge)](https://github.com/makersacademy/octocat_challenge)
+- Checked out [GitHub Explore](https://github.com/explore) for examples of use and use. In Ruby, found [this](https://github.com/huffpostdata/ap-election-loader). [jQuery page (mentioned in git pill)](https://github.com/jquery/jquery) is interesting and has good resources for [contributing to open source projects](http://contribute.jquery.org/open-source/) in general
+- Reviewed hashes in LRtHW ex39
+
+**Tuesday 20/1**
+- Meet-up at Makers!
+- LRtHW ex 40-41
+
+**Wednesday 21/1**
+- LRtHW ex 42
+- Started using ruby kickstart (unable to get rake tests working)
 
 ## Useful links and further reading from study:
 
@@ -61,6 +76,11 @@
 
 **Sublime Text**
 - [deleting blank lines](http://stackoverflow.com/questions/12008986/sublime-text-2-how-to-delete-blank-empty-lines) (find and replace / regex)
+
+**Git**
+- [Documentation](http://git-scm.com/doc) @ git-scm.com
+- [Tutorials, articles and glossary](https://www.atlassian.com/git/) @ Atlassian
+- Some [definitions](http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences) @ Stack Overflow 
 
 **Ruby**
 - [Practicing Ruby](https://practicingruby.com) which I found through an article mentioning [choose your own adventure books](https://practicingruby.com/articles/confident-ruby) while playing with LRtHW ex31
