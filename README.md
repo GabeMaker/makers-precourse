@@ -64,7 +64,10 @@
 
 **Wednesday 21/1**
 - LRtHW ex 42
-- Started using ruby kickstart (unable to get rake tests working)
+- [RubyKickstart (RK)](https://github.com/JoshCheek/ruby-kickstart). Session 1: Challenges 1-5. At first I was unable to get rake tests working but fixed this by downloading rspec for my default Ruby ('gem' list' to confirm I didn't have it then 'gem install rspec')
+
+**Thursday 22/1**
+- Completed RK Session 1 [challenges](https://github.com/GabeMaker/makers-precourse/tree/master/Ruby%20Kickstart%20answers/Session%201) 6-7 and reviewed given answers for all. VERY USEFUL to see different ways of solving, particularly 4 (using 'return' directly), 5 (chaining 'gsub' calls together) 6 and 7 (general use of logic). Will try to contribute to Jordan's RK repo at a later date
 
 ## Useful links and further reading from study:
 
@@ -84,6 +87,9 @@
 
 **Ruby**
 - [Practicing Ruby](https://practicingruby.com) which I found through an article mentioning [choose your own adventure books](https://practicingruby.com/articles/confident-ruby) while playing with LRtHW ex31
+- [GitHub Ruby Style Guide](https://github.com/styleguide/ruby) helped me refactor a simple if-else into one line:
+
+n % 2 == 0 ? 10 : 20 (if n is even return 10, if not even return 20)
 
 
 ## Misc
