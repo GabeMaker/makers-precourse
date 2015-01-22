@@ -53,7 +53,7 @@
 
 
 ## Week 3:
-**Monday** 19/1/15**
+**Monday 19/1/15**
 - Completed Octocat [(Version Control Challenge)](https://github.com/makersacademy/octocat_challenge)
 - Checked out [GitHub Explore](https://github.com/explore) for examples of use and use. In Ruby, found [this](https://github.com/huffpostdata/ap-election-loader). [jQuery page (mentioned in git pill)](https://github.com/jquery/jquery) is interesting and has good resources for [contributing to open source projects](http://contribute.jquery.org/open-source/) in general
 - Reviewed hashes in LRtHW ex39
@@ -67,7 +67,7 @@
 - [RubyKickstart (RK)](https://github.com/JoshCheek/ruby-kickstart). Session 1: Challenges 1-5. At first I was unable to get rake tests working but fixed this by downloading rspec for my default Ruby ('gem' list' to confirm I didn't have it then 'gem install rspec')
 
 **Thursday 22/1**
-- Completed RK [Session 1 challenges](https://github.com/GabeMaker/makers-precourse/tree/master/Ruby%20Kickstart%20answers/Session%201) 6-7 and reviewed given answers for all. **VERY USEFUL** to see different ways of solving, particularly 4 (using 'return' directly), 5 (chaining 'gsub' calls together) 6 and 7 (general use of logic). Will try to contribute to Jordan's RK repo at a later date
+- Completed RK 6-7 and reviewed given answers for all. **VERY USEFUL** to see different ways of solving, particularly 4 (using 'return' directly), 5 (chaining 'gsub' calls together) 6 and 7 (general use of logic). Will try to contribute to Jordan's RK repo at a later date
 
 ## Useful links and further reading from study:
 
