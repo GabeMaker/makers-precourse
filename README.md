@@ -69,6 +69,10 @@
 **Thursday 22/1**
 - Completed RK 6-7 and reviewed given answers for all. **VERY USEFUL** to see different ways of solving, particularly 4 (using 'return' directly), 5 (chaining 'gsub' calls together) 6 and 7 (general use of logic). Will try to contribute to Jordan's RK repo at a later date
 
+**Friday 23/1**
+- Reviewed ex41 (how the drilling program actually works)
+- RK 2:1, cloned Jordan's repo. Still having trouble with using rake 2:2
+
 ## Useful links and further reading from study:
 
 **Command Line**
