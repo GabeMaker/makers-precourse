@@ -73,6 +73,9 @@
 - Reviewed ex41 (how the drilling program actually works)
 - RK 2:1, cloned Jordan's repo. Still having trouble with using rake 2:2
 
+**Saturday 24/1**
+- Started reading "Practical Object-Oriented Design in Ruby" (PODiR) - Sandi Metz
+
 ## Useful links and further reading from study:
 
 **Command Line**
