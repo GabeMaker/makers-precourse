@@ -76,6 +76,15 @@
 **Saturday 24/1**
 - Started reading "Practical Object-Oriented Design in Ruby" (PODiR) - Sandi Metz
 
+**Sunday 25/1**
+- Meetup at Makers (working on RK and git questions)
+- Fixed problem with rakefiles (was using old rubykickstart, tests passed fine in new repo)
+
+
+## Week 4:
+**Monday 26/1/15**
+- RK 2:3-11
+
 ## Useful links and further reading from study:
 
 **Command Line**
