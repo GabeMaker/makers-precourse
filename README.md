@@ -85,6 +85,9 @@
 **Monday 26/1/15**
 - RK 2:3-11
 
+**Tuesday27/1**
+- RK 2:12-13
+
 ## Useful links and further reading from study:
 
 **Command Line**
