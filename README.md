@@ -85,8 +85,11 @@
 **Monday 26/1/15**
 - RK 2:3-11
 
-**Tuesday27/1**
+**Tuesday 27/1**
 - RK 2:12-13
+
+**Wednesday 28/1**
+- RK 3:1-6
 
 ## Useful links and further reading from study:
 
