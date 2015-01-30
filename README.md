@@ -91,6 +91,14 @@
 **Wednesday 28/1**
 - RK 3:1-6
 
+**Thursday 29/1**
+- RK 3:6-8
+- pairing with Roi at Makers
+
+**Friday 30/1**
+- RK 3:9
+- Graduation and presentations from current seniors
+
 ## Useful links and further reading from study:
 
 **Command Line**
