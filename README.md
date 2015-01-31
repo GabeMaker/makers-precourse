@@ -99,6 +99,9 @@
 - RK 3:9
 - Graduation and presentations from current seniors
 
+**Saturday 31/1**
+- Pre-reading for Week 1 of course!
+
 ## Useful links and further reading from study:
 
 **Command Line**
