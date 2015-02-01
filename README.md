@@ -104,6 +104,7 @@
 
 **Saturday 1st Feb**
 - Watched Derek Banas'[Object-oriented videos](https://www.youtube.com/playlist?list=PLU52_V9_KkXsbtCqprntRU1_73DEWsXrc)
+- Wrote typing.rb - a skeleton script for testing your typing speed (in 'misc' folder)
 
 ## Useful links and further reading from study:
 
