@@ -100,7 +100,10 @@
 - Graduation and presentations from current seniors
 
 **Saturday 31/1**
-- Pre-reading for Week 1 of course!
+- Pre-reading for Week 1 of course
+
+**Saturday 1st Feb**
+- Watched Derek Banas'[Object-oriented videos](https://www.youtube.com/playlist?list=PLU52_V9_KkXsbtCqprntRU1_73DEWsXrc)
 
 ## Useful links and further reading from study:
 
